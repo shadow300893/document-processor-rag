@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-ollama
+langchain-core
+langchain-text-splitters
+langchain-chroma
+chromadb
+pypdf
+sentence-transformers
+fastapi
+uvicorn
+rank-bm25
+ragas
+datasets
