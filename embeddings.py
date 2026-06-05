@@ -1,10 +1,5 @@
 """
-embeddings.py — Shared embedding utility with disk caching.
-
-Improvement #9: Caching
-- Caches embeddings to .cache/ folder using MD5 hash of text
-- Repeat queries are near-instant — no Ollama call needed
-- Cache persists across runs
+embeddings.py
 """
 
 import hashlib
